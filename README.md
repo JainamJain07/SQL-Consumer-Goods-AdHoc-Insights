@@ -29,8 +29,8 @@ Address 10 real-world ad-hoc data requests from the Director of Analytics at Atl
 
 - MySQL for querying and analysis
 - SQL Clauses: SELECT, WHERE, GROUP BY, ORDER BY, LIMIT
-- JOINs: INNER, LEFT
-- Aggregates: SUM(), AVG(), COUNT()
+- JOINs: INNER, LEFT, CROSS
+- Aggregates: SUM(), AVG(), COUNT(), MIN(), MAX()
 - Window Functions: RANK(), PARTITION BY
 - Subqueries & CTEs
 - CASE WHEN for conditional logic
